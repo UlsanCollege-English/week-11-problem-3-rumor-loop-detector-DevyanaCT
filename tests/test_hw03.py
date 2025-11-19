@@ -1,5 +1,5 @@
 import pytest
-from hw03.main import has_cycle, find_cycle
+from main import has_cycle, find_cycle
 
 def test_tree_is_acyclic():
     g = {
